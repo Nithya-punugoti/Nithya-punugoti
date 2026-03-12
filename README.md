@@ -110,16 +110,4 @@ https://linkedin.com/in/nithya-sri-punugoti-510208291
 📧 **Email**  
 nithyasripunugoti@gmail.com  
 
----
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Nithya-punugoti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Nithya-punugoti&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithya-punugoti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-![](https://visitcount.itsvg.in/api?id=Nithya-punugoti&icon=0&color=0)
